@@ -1,0 +1,90 @@
+[{
+    "nome": "Windows",
+    "ano":"1985",
+    "descricao": "O Windows é um sistema operacional de código-fechado e muito popular em desktops.",
+    "link":"https://pt.wikipedia.org/wiki/Microsoft_Windows"
+},
+{
+    "nome": "macOS",
+    "ano":"2001",
+    "descricao": "O macOS (anteriormente Mac OS X) é o sistema operacional de código-fechado da Apple para seus computadores.",
+    "link":"https://pt.wikipedia.org/wiki/MacOS"
+},
+{
+    "nome": "Linux",
+    "ano":"1991",
+    "descricao": "O Linux é um kernel de sistema operacional de código-aberto, base para muitas distribuições como Ubuntu, Fedora e Debian.",
+    "link":"https://pt.wikipedia.org/wiki/Linux"
+},
+{
+    "nome": "Ubuntu",
+    "ano":"2004",
+    "descricao": "Ubuntu é uma das distribuições Linux mais populares, focada na facilidade de uso para desktops e servidores.",
+    "link":"https://pt.wikipedia.org/wiki/Ubuntu"
+},
+{
+    "nome": "Fedora",
+    "ano":"2003",
+    "descricao": "Fedora é uma distribuição Linux desenvolvida pela comunidade, conhecida por adotar tecnologias de ponta.",
+    "link":"https://pt.wikipedia.org/wiki/Fedora_(distribuição_Linux)"
+},
+{
+    "nome": "Debian",
+    "ano":"1993",
+    "descricao": "Debian é uma distribuição Linux conhecida por sua estabilidade e por ser a base de muitas outras, como o Ubuntu.",
+    "link":"https://pt.wikipedia.org/wiki/Debian"
+},
+{
+    "nome": "Android",
+    "ano":"2008",
+    "descricao": "Android é um sistema operacional móvel de código-aberto baseado no kernel Linux, desenvolvido pelo Google.",
+    "link":"https://pt.wikipedia.org/wiki/Android"
+},
+{
+    "nome": "iOS",
+    "ano":"2007",
+    "descricao": "iOS é o sistema operacional móvel de código-fechado da Apple para iPhone, iPad e iPod Touch.",
+    "link":"https://pt.wikipedia.org/wiki/IOS"
+},
+{
+    "nome": "FreeBSD",
+    "ano":"1993",
+    "descricao": "FreeBSD é um sistema operacional de código-aberto do tipo Unix, conhecido por seu desempenho e estabilidade em servidores.",
+    "link":"https://pt.wikipedia.org/wiki/FreeBSD"
+},
+{
+    "nome": "OpenBSD",
+    "ano":"1995",
+    "descricao": "OpenBSD é um sistema operacional do tipo Unix focado em segurança, criptografia e desenvolvimento correto de código.",
+    "link":"https://pt.wikipedia.org/wiki/OpenBSD"
+},
+{
+    "nome": "NetBSD",
+    "ano":"1993",
+    "descricao": "NetBSD é um sistema operacional do tipo Unix conhecido por sua alta portabilidade para diversas arquiteturas de hardware.",
+    "link":"https://pt.wikipedia.org/wiki/NetBSD"
+},
+{
+    "nome": "Solaris",
+    "ano":"1992",
+    "descricao": "Solaris é um sistema operacional do tipo Unix originalmente desenvolvido pela Sun Microsystems, hoje parte da Oracle.",
+    "link":"https://pt.wikipedia.org/wiki/Solaris_(sistema_operacional)"
+},
+{
+    "nome": "Chrome OS",
+    "ano":"2011",
+    "descricao": "Chrome OS é um sistema operacional do Google baseado no kernel Linux e projetado para funcionar com aplicativos web.",
+    "link":"https://pt.wikipedia.org/wiki/Chrome_OS"
+},
+{
+    "nome": "MS-DOS",
+    "ano":"1981",
+    "descricao": "MS-DOS foi o primeiro sistema operacional amplamente adotado para computadores pessoais da IBM e compatíveis.",
+    "link":"https://pt.wikipedia.org/wiki/MS-DOS"
+},
+{
+    "nome": "Unix",
+    "ano":"1969",
+    "descricao": "Unix é uma família de sistemas operacionais multitarefa e multiusuário que influenciou a criação de muitos outros, como Linux e macOS.",
+    "link":"https://pt.wikipedia.org/wiki/Unix"
+}]
