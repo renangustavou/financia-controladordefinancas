@@ -1,8 +1,6 @@
 <div align="center">
 
-  <img src="img/logo.png" alt="Logo FinancIA" width="60">
-
-  # Financ**IA**
+  # 🧪💸 Financ**IA**
   
   ### 🧪 Transforme Vício em Vivência 💸
 
