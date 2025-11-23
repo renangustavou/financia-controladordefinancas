@@ -1,12 +1,12 @@
 <div align="center">
 
-  <img src="img/logo.png" alt="Logo FinancIA" width="120">
+  <img src="img/logo.png" alt="Logo FinancIA" width="60">
 
   # Financ**IA**
   
   ### 🧪 Transforme Vício em Vivência 💸
 
-  <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-dbfb01?style=for-the-badge&logo=c&logoColor=000000&labelColor=dbfb01&color=000000" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Finalizado-dbfb01?style=for-the-badge&logo=c&logoColor=000000&labelColor=dbfb01&color=000000" alt="Status">
   <img src="https://img.shields.io/badge/Licença-MIT-dbfb01?style=for-the-badge&labelColor=000000&color=dbfb01" alt="License">
 
   <br><br>
