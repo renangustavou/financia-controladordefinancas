@@ -51,6 +51,7 @@ header h1 {
 
 .fonte-financia {
     color: var(--primary-color);
+    font-size: 3rem;
 }
 
 
@@ -81,6 +82,7 @@ header h1 {
     font-weight: 500;
     color: var(--tertiary-color);
     margin: 0;
+    margin-top: 2%;
 }
 .search-subtitle {
     font-size: 1rem;
@@ -103,7 +105,7 @@ header h1 {
 
 #campo-busca {
     padding: 0.75rem 1.5rem 0.75rem 4rem; /* Padding esquerdo aumentado */
-    border-radius: 2rem;
+    border-radius: 1rem;
     border: 2px solid var(--tertiary-color);
     background: transparent;
     font-family: inherit;
