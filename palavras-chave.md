@@ -1,7 +1,0 @@
-# AULA 1: APRENDER
-
-# AULA 2: NA ALURA
-
-# AULA 3: COM IA
-
-# AULA 4:

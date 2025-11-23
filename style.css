@@ -1,14 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap'); /* Importa a fonte Quicksand do Google Fonts */
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 * {
     box-sizing: border-box; /* Garante que padding e border não aumentem o tamanho total do elemento */
 }
 
 :root {
-    --primary-color: #8ab4f8; /* Cor primária (azul claro) */
+    --primary-color: #dbfb01;
+    --subtitle-color: #dafb0195; /* Cor primária (azul claro) */
     --secondary-color: #e8eaed; /* Cor secundária (cinza claro) */
     --tertiary-color: #9aa0a6; /* Cor terciária (cinza médio) */
-    --bg-color: #141517; /* Cor de fundo (cinza escuro) */
+    --bg-color: #000000; /* Cor de fundo (cinza escuro) */
 }
 
 body {
@@ -19,171 +19,206 @@ body {
 }
 
 header {
-    padding: 2rem 1rem; /* Espaçamento interno (2rem em cima/baixo, 1rem nos lados) */
-    display: flex; /* Habilita o layout flexbox */
-    align-items: center; /* Alinha os itens verticalmente ao centro */
-    justify-content: space-around; /* Distribui os itens com espaço ao redor */
-    position: sticky; /* Mantém o cabeçalho fixo no topo ao rolar a página */
-    top: 0; /* Posição do topo quando sticky */
-    background: var(--bg-color); /* Cor de fundo do cabeçalho */
-    z-index: 10; /* Define a ordem de empilhamento para ficar sobre outros elementos */
-    border-bottom: 1px solid var(--bg-color); /* Adiciona uma borda inferior */
-    gap: 1rem; /* Espaçamento entre os elementos flex */
+    padding: 2rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Ajustado para space-between */
+    position: sticky;
+    top: 0;
+    background: var(--bg-color);
+    z-index: 10;
+    gap: 1rem;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+}
+
+.logo-img {
+    height: 60px; /* Ajuste a altura conforme necessário */
+    width: auto;
 }
 
 header h1 {
-    font-size: 1.5rem; /* Tamanho da fonte */
-    margin: 0; /* Remove a margem padrão */
-    font-weight: 700; /* Peso da fonte (bold) */
-    white-space: nowrap; /* Impede a quebra de linha do texto */
-    text-shadow: 0 0 5px rgba(255, 255, 255, 0.1); /* Efeito de glow */
+    font-size: 1.5rem;
+    margin: 0;
+    font-weight: 700;
+    white-space: nowrap;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.1);
 }
 
-/* Cores do Google */
-.g-blue {
-    color: #69a0f8;
-}
-
-.g-red {
-    color: #ea6559;
-}
-
-.g-yellow {
-    color: #FBBC05;
-}
-
-.g-green {
-    color: #5ccd7a;
+.fonte-financia {
+    color: var(--primary-color);
 }
 
 
-
-div input {
-    padding: 0.375rem 0.75rem; /* Espaçamento interno */
-    border-radius: 1rem; /* Arredonda as bordas */
-    border: 1px solid var(--tertiary-color); /* Define a borda */
-    background: var(--bg-color); /* Cor de fundo */
-    font-family: inherit; /* Herda a família da fonte do elemento pai */
-    font-size: 1.5rem; /* Tamanho da fonte */
-    transition: all 0.2s ease; /* Adiciona uma transição suave para todas as propriedades */
-    width: 30rem; /* Largura do input */
-    color: var(--secondary-color); /* Cor do texto digitado */
-    margin-right: .5rem; /* Margem à direita */
+@keyframes gradient-animation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
 }
 
-div input::placeholder {
-    font-size: 1.2rem; /* Tamanho da fonte do placeholder */
-    font-weight: 300; /* Peso da fonte do placeholder */
-    color: var(--tertiary-color); /* Cor do texto do placeholder */
+
+
+.search-wrapper {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
 }
 
-div input:focus {
-    outline: none; /* Remove a borda de foco padrão */
-    border-color: var(--bg-color); /* Muda a cor da borda ao focar */
-    box-shadow: 0 0 0 0.1rem var(--tertiary-color); /* Adiciona uma sombra de caixa para indicar foco */
+.search-title {
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: var(--tertiary-color);
+    margin: 0;
+}
+.search-subtitle {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--subtitle-color);
+    margin: 5;
+}
+.search-container {
+    display: flex;
+    align-items: center;
 }
 
-#botao-busca {
-    padding: 1rem 2rem; /* Espaçamento interno */
-    border-radius: 1rem; /* Arredonda as bordas */
-    border: none; /* Remove a borda padrão */
-    cursor: pointer; /* Muda o cursor para uma mão ao passar por cima */
-    font-family: inherit; /* Herda a família da fonte */
-    font-weight: 500; /* Peso da fonte */
-    font-size: 1rem; /* Tamanho da fonte */
-    white-space: nowrap; /* Impede a quebra de linha do texto */
-    transition: background-color 0.2s ease, color 0.2s ease; /* Transição suave para cor de fundo e cor do texto */
-    background-color: var(--bg-color); /* Cor de fundo */
-    color: var(--secondary-color); /* Cor do texto */
-    border: 1px solid var(--bg-color); /* Adiciona uma borda */
+.currency-symbol {
+    color: var(--primary-color);
+    font-size: 2rem;
+    font-weight: 600;
+    margin-right: -3.2rem; /* Ajuste fino para o espaçamento */
+    z-index: 5;
 }
 
-#botao-busca:hover {
-    background-color: var(--primary-color); /* Muda a cor de fundo ao passar o mouse */
-    color: var(--bg-color); /* Muda a cor do texto ao passar o mouse */
-    box-shadow: 0 0 0 0.1rem var(--primary-color); /* Adiciona uma sombra de caixa */
+#campo-busca {
+    padding: 0.75rem 1.5rem 0.75rem 4rem; /* Padding esquerdo aumentado */
+    border-radius: 2rem;
+    border: 2px solid var(--tertiary-color);
+    background: transparent;
+    font-family: inherit;
+    font-size: 1.8rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    width: 25rem;
+    color: var(--secondary-color);
+    text-align: left;
+    cursor: pointer;
 }
 
-#botao-busca:active {
-    transform: scale(0.98); /* Efeito de clique (diminui o tamanho) */
+#campo-busca::placeholder {
+    color: var(--tertiary-color);
+    font-weight: 400;
+}
+
+#campo-busca:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 15px rgba(219, 251, 1, 0.2);
+}
+
+.header-placeholder {
+    width: 150px; /* Largura similar à da logo para equilíbrio */
+    flex-shrink: 0;
 }
 
 main {
-    overflow-y: scroll; /* Adiciona uma barra de rolagem vertical se o conteúdo exceder a altura */
-    max-width: 80rem; /* Largura máxima do conteúdo principal */
-    margin: 0 auto; /* Centraliza o conteúdo principal horizontalmente */
-    margin-top: 2rem; /* Margem no topo */
-    height: calc(100vh - 10rem - 4rem); /* Calcula a altura para preencher o espaço restante da tela */
+    overflow-y: auto;
+    max-width: 80rem;
+    margin: 0 auto;
+    padding: 2rem 1rem 5rem; /* Adiciona padding inferior para o footer fixo */
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
 }
 
 .card {
-    background-color: black;
+    background-color: #1a1a1a;
+    border: 1px solid var(--tertiary-color);
+    border-radius: 12px;
+    padding: 1.5rem;
+    width: 280px;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-article {
-    background: none; /* Sem cor de fundo */
-    border-radius: 0; /* Sem bordas arredondadas */
-    padding: 0; /* Remove o padding */
-    padding: 0 1rem; /* Espaçamento interno nos lados */
-    margin-bottom: 1.25rem; /* Margem inferior */
-    box-shadow: none; /* Sem sombra */
-    transition: background-color 0.3s ease, border-bottom-color 0.3s ease; /* Transição suave */
-    border-bottom: 1px solid var(--bg-color); /* Borda inferior */
-    padding-bottom: 1.5rem; /* Espaçamento interno inferior */
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
 }
 
-article:hover {
-    transform: scale(1.01); /* Aumenta ligeiramente o tamanho ao passar o mouse */
-    cursor: pointer; /* Muda o cursor para uma mão */
+.card h2 {
+    font-size: 4rem;
+    margin: 0;
+    line-height: 1;
+    filter: grayscale(40%);
+    transition: filter 0.3s ease, transform 0.3s ease;
 }
 
-article h2 {
-    margin-top: 0; /* Remove a margem superior */
-    font-weight: 600; /* Peso da fonte */
-    font-size: 1.6rem; /* Tamanho da fonte */
-    border-bottom: none; /* Sem borda inferior */
-    padding-bottom: 0; /* Sem espaçamento interno inferior */
-    margin-bottom: 0.25rem; /* Margem inferior */
-    color: var(--primary-color); /* Cor do texto */
+.card:hover h2 {
+    filter: grayscale(0%);
+    transform: scale(1.1);
 }
 
-article p {
-    margin: 0.5rem 0; /* Margem superior e inferior */
-    line-height: 1.6; /* Altura da linha para melhor legibilidade */
-    font-size: 1rem; /* Tamanho da fonte */
-    margin-bottom: 0.5rem; /* Margem inferior */
-    color: var(--secondary-color); /* Cor do texto */
+.card .lazer-nome {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--secondary-color);
+    margin: 1rem 0 0.5rem;
+    width: 100%;
+    white-space: normal; /* Permite que o texto quebre a linha */
+    overflow-wrap: break-word; /* Garante que palavras muito longas não transbordem */
 }
 
-article p strong {
-    color: var(--tertiary-color); /* Cor do texto em negrito */
-    font-weight: 400; /* Peso da fonte */
+.card .lazer-valor {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: var(--primary-color);
+    margin: 0;
+    margin-top: 10%;
+    white-space: nowrap;
 }
 
-article a {
-    color: var(--primary-color); /* Cor do link */
-    text-decoration: none; /* Remove o sublinhado padrão */
-    font-weight: 200; /* Peso da fonte */
-}
-
-article a:hover {
-    text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
+.card .lazer-emoji {
+    margin-top: 5%;
+    font-size: 2.5rem;
 }
 
 .footer {
-    position: absolute; /* Posicionamento absoluto em relação ao elemento pai posicionado */
-    bottom: 0; /* Alinha na parte inferior */
-    left: 0; /* Alinha à esquerda */
-    width: 100%; /* Largura total */
-    color: var(--tertiary-color); /* Cor do texto */
-    background-color: var(--bg-color); /* Cor de fundo */
-    padding: 15px 20px; /* Espaçamento interno */
-    border-top: 1px solid #3c4043; /* Borda superior */
-    font-size: 0.8rem; /* Tamanho da fonte */
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 10% ;
+    width: 100%;
+    color: black;
+    background-color: var(--primary-color);
+    padding: 10px 10px;
+    font-size: 0.8rem;
+    z-index: 10; /* Garante que o footer fique sobre outros elementos */
 }
 
 .footer-location {
-    color: #9aa0a6; /* Cor do texto */
+    color: black; /* Cor do texto */
     margin-bottom: 10px; /* Margem inferior */
 }
 
@@ -196,13 +231,19 @@ article a:hover {
 }
 
 .footer-links a {
-    color: var(--secondary-color); /* Cor do link */
+    color: black; /* Cor do link */
     text-decoration: none; /* Remove o sublinhado */
     transition: color 0.2s; /* Transição suave para a cor */
 }
 
 .footer-links a:hover {
     color: var(--accent-color); /* Muda a cor do link ao passar o mouse (variável não definida) */
+}
+
+.footer-credit {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 0.9rem;
 }
 
 @media (max-width: 768px) {
