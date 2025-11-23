@@ -2,7 +2,7 @@
 
   <img src="img/logo.png" alt="Logo FinancIA" width="120">
 
-  # FinancIA
+  # Financ**IA**
   
   ### 🧪 Transforme Vício em Vivência 💸
 
