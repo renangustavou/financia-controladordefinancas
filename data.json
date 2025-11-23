@@ -853,14 +853,6 @@
     ]
   },
   {
-    "lazer": "Dizer 'te amo' para as pessoas que gosta",
-    "valor": 0,
-    "emoji": "❤️",
-    "tags": [
-      "família"
-    ]
-  },
-  {
     "lazer": "Experiência de dirigir um carro esportivo de luxo por um dia (aluguel)",
     "valor": 1300,
     "emoji": "🚗💨",
@@ -996,7 +988,7 @@
     ]
   },
   {
-    "lazer": "Pacote de mergulho certificado em Fernando de Noronha",
+    "lazer": "Pacote de mergulho certificado em Fernando de Noronha (incluindo passagem/hospedagem)",
     "valor": 9000,
     "emoji": "🐠🇧🇷",
     "tags": [
@@ -1050,7 +1042,7 @@
     ]
   },
   {
-    "lazer": "Assinatura anual de clube de charutos raros",
+    "lazer": "Assinatura anual de clube de charutos raros (incluindo humidor climatizado)",
     "valor": 5500,
     "emoji": "🚬🎩",
     "tags": [
@@ -1137,6 +1129,14 @@
     "tags": [
       "cultura",
       "descanso"
+    ]
+  },
+  {
+    "lazer": "Realizar a imersao da Alura",
+    "valor": 0,
+    "emoji": "🤖🤿",
+    "tags": [
+      "cultura"
     ]
   },
   {
@@ -1266,14 +1266,6 @@
       "cultura"
     ]
   },
-   {
-    "lazer": "Realizar a imersão da Alura",
-    "valor": 0,
-    "emoji": "💻⚙️",
-    "tags": [
-      "cultura"
-    ]
-  },
   {
     "lazer": "Jogar games casuais no celular (sem gastos in-app)",
     "valor": 0,
@@ -1301,11 +1293,2142 @@
     ]
   },
   {
-    "lazer": "Meditar em silêncio por 15 minutos",
+    "lazer": "Meditar em silêncio por 15 minutos (prática de mindfulness)",
     "valor": 0,
     "emoji": "🙏",
     "tags": [
       "descanso"
     ]
+  },
+  {
+    "lazer": "Sessão de cinema drive-in para dois",
+    "valor": 80,
+    "emoji": "🍿🚗",
+    "tags": [
+      "diversão",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Compra de um livro de colorir adulto e lápis de cor de qualidade",
+    "valor": 65,
+    "emoji": "🖍️📚",
+    "tags": [
+      "hobbie",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Passeio de bicicleta por uma trilha urbana desconhecida",
+    "valor": 0,
+    "emoji": "🚴🌳",
+    "tags": [
+      "esportes",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Visita a um mercado municipal e compra de especiarias exóticas",
+    "valor": 120,
+    "emoji": "🌶️🥕",
+    "tags": [
+      "comida",
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Dia de spa caseiro com argilas e óleos essenciais",
+    "valor": 75,
+    "emoji": "🧖‍♀️🌸",
+    "tags": [
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Compra de óculos de sol polarizados de marca acessível",
+    "valor": 250,
+    "emoji": "😎☀️",
+    "tags": [
+      "acessórios",
+      "roupas"
+    ]
+  },
+  {
+    "lazer": "Ingresso para um show de jazz em um bar local",
+    "valor": 90,
+    "emoji": "🎺🍸",
+    "tags": [
+      "cultura",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Curso online rápido de fotografia mobile",
+    "valor": 150,
+    "emoji": "📸📱",
+    "tags": [
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Piquenique gourmet no parque com a família",
+    "valor": 180,
+    "emoji": "🧺👨‍👩‍👧‍👦",
+    "tags": [
+      "comida",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Aluguel de um e-reader por 1 mês para teste",
+    "valor": 50,
+    "emoji": "📱📖",
+    "tags": [
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Compra de uma capa nova e estilosa para celular",
+    "valor": 110,
+    "emoji": "📱✨",
+    "tags": [
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Aula experimental de dança de salão (Salsa ou Forró)",
+    "valor": 45,
+    "emoji": "💃🕺",
+    "tags": [
+      "diversão",
+      "esportes"
+    ]
+  },
+  {
+    "lazer": "Compra de um tênis casual básico e confortável",
+    "valor": 199,
+    "emoji": "👟🚶",
+    "tags": [
+      "roupas"
+    ]
+  },
+  {
+    "lazer": "Jantar vegetariano feito em casa usando uma receita nova e complexa",
+    "valor": 50,
+    "emoji": "🥗🧑‍🍳",
+    "tags": [
+      "comida",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Visita a um museu pequeno ou galeria de arte local (ingresso)",
+    "valor": 35,
+    "emoji": "🖼️🗿",
+    "tags": [
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Assinatura mensal de caixa de snacks saudáveis",
+    "valor": 99,
+    "emoji": "🍎📦",
+    "tags": [
+      "comida"
+    ]
+  },
+  {
+    "lazer": "Excursão de um dia para uma cidade histórica próxima",
+    "valor": 300,
+    "emoji": "🚌🏘️",
+    "tags": [
+      "viagem",
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Compra de uma luminária de leitura de LED ajustável",
+    "valor": 85,
+    "emoji": "💡📚",
+    "tags": [
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Maratona de jogos de tabuleiro com amigos",
+    "valor": 150,
+    "emoji": "🎲🍕",
+    "tags": [
+      "diversão",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Ingresso para um jogo de futebol (arquibancada popular)",
+    "valor": 70,
+    "emoji": "🏟️⚽",
+    "tags": [
+      "esportes",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Sessão de flutuação em tanque de privação sensorial",
+    "valor": 280,
+    "emoji": "💧🧘",
+    "tags": [
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Compra de um cachecol ou echarpe de seda artesanal",
+    "valor": 130,
+    "emoji": "🧣🛍️",
+    "tags": [
+      "acessórios",
+      "roupas"
+    ]
+  },
+  {
+    "lazer": "Workshop rápido de caligrafia (materiais inclusos)",
+    "valor": 220,
+    "emoji": "🖋️📜",
+    "tags": [
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Pacote de degustação de cervejas artesanais em microcervejaria",
+    "valor": 140,
+    "emoji": "🍺🍻",
+    "tags": [
+      "comida",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Compra de um termômetro culinário digital de precisão",
+    "valor": 90,
+    "emoji": "🌡️🔪",
+    "tags": [
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Manicure e pedicure completa em salão sofisticado",
+    "valor": 95,
+    "emoji": "💅✨",
+    "tags": [
+      "descanso",
+      "roupas"
+    ]
+  },
+  {
+    "lazer": "Compra de ingressos para teatro infantil ou show de mágica",
+    "valor": 110,
+    "emoji": "🎭🪄",
+    "tags": [
+      "família",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Caminhada noturna guiada em parque de conservação",
+    "valor": 40,
+    "emoji": "🦉🔦",
+    "tags": [
+      "esportes",
+      "viagem"
+    ]
+  },
+  {
+    "lazer": "Assinatura de um serviço de streaming de filmes por 3 meses",
+    "valor": 80,
+    "emoji": "🎬💻",
+    "tags": [
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Compra de um difusor de aromas elétrico para casa",
+    "valor": 160,
+    "emoji": "👃🏠",
+    "tags": [
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Visita a um sítio arqueológico ou ruínas históricas próximas",
+    "valor": 25,
+    "emoji": "🏛️🗺️",
+    "tags": [
+      "cultura",
+      "viagem"
+    ]
+  },
+  {
+    "lazer": "Compra de um par de meias de compressão para treino",
+    "valor": 100,
+    "emoji": "🧦🏃",
+    "tags": [
+      "acessórios",
+      "esportes"
+    ]
+  },
+  {
+    "lazer": "Montagem de um quebra-cabeça de 1000 peças",
+    "valor": 70,
+    "emoji": "🧩🧠",
+    "tags": [
+      "hobbie",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Aula de culinária regional (ex: Nordestina ou Mineira)",
+    "valor": 250,
+    "emoji": "🍲🌶️",
+    "tags": [
+      "comida",
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Viagem de ônibus para a praia mais próxima (ida e volta no mesmo dia)",
+    "valor": 150,
+    "emoji": "🏖️🚌",
+    "tags": [
+      "viagem"
+    ]
+  },
+  {
+    "lazer": "Compra de uma garrafa térmica de inox de alta performance",
+    "valor": 180,
+    "emoji": "💧🧴",
+    "tags": [
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Ingresso para stand-up comedy em bar",
+    "valor": 60,
+    "emoji": "😂🎤",
+    "tags": [
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Compra de tintas acrílicas e tela para pintura",
+    "valor": 170,
+    "emoji": "🎨🖌️",
+    "tags": [
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Sessão de massagem relaxante de 1 hora",
+    "valor": 150,
+    "emoji": "💆‍♀️😌",
+    "tags": [
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Compra de um kit de reparo básico para sapatos de couro",
+    "valor": 50,
+    "emoji": "👞🛠️",
+    "tags": [
+      "acessórios",
+      "roupas"
+    ]
+  },
+  {
+    "lazer": "Tour de bicicleta para visitar 3 cafeterias diferentes (custo dos cafés)",
+    "valor": 90,
+    "emoji": "☕🚲",
+    "tags": [
+      "comida",
+      "esportes"
+    ]
+  },
+  {
+    "lazer": "Inscrição em clube do livro local",
+    "valor": 40,
+    "emoji": "📚🗣️",
+    "tags": [
+      "cultura",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Compra de uma boia gigante divertida para piscina ou lago",
+    "valor": 130,
+    "emoji": "🦢🏊",
+    "tags": [
+      "diversão",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Limpeza e hidratação de casacos de couro em lavanderia especializada",
+    "valor": 200,
+    "emoji": "🧥🧼",
+    "tags": [
+      "roupas"
+    ]
+  },
+  {
+    "lazer": "Visita a um planetário e sessão sobre estrelas",
+    "valor": 45,
+    "emoji": "🪐✨",
+    "tags": [
+      "cultura",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Compra de um conjunto de pesos leves para exercícios em casa",
+    "valor": 150,
+    "emoji": "💪🏋️",
+    "tags": [
+      "esportes"
+    ]
+  },
+  {
+    "lazer": "Degustação de 5 tipos de azeite em empório fino",
+    "valor": 60,
+    "emoji": "🧪🫒",
+    "tags": [
+      "comida"
+    ]
+  },
+  {
+    "lazer": "Aluguel de scooter ou bicicleta elétrica por 2 horas",
+    "valor": 70,
+    "emoji": "🛵💨",
+    "tags": [
+      "diversão",
+      "viagem"
+    ]
+  },
+  {
+    "lazer": "Compra de um álbum de figurinhas completo de uma coleção atual",
+    "valor": 80,
+    "emoji": "🖼️🏅",
+    "tags": [
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Kit de coquetelaria básica (shaker e dosador)",
+    "valor": 120,
+    "emoji": "🍸🍹",
+    "tags": [
+      "hobbie",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Compra de ingressos para um festival de food truck local",
+    "valor": 50,
+    "emoji": "🚚🍔",
+    "tags": [
+      "comida",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Compra de um tapete de yoga antiderrapante de alta qualidade",
+    "valor": 350,
+    "emoji": "🧘‍♀️🌱",
+    "tags": [
+      "esportes",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Fim de semana acampando em parque estadual (taxa de camping)",
+    "valor": 200,
+    "emoji": "⛺🌲",
+    "tags": [
+      "viagem",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Compra de um par de botas impermeáveis de trilha (modelo básico)",
+    "valor": 450,
+    "emoji": "🥾🌧️",
+    "tags": [
+      "roupas",
+      "esportes"
+    ]
+  },
+  {
+    "lazer": "Aula particular de violão (primeira lição)",
+    "valor": 100,
+    "emoji": "🎸🎶",
+    "tags": [
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Visita a um jardim botânico ou parque com estrutura paga",
+    "valor": 30,
+    "emoji": "🌺🌳",
+    "tags": [
+      "descanso",
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Compra de um smartwatch de entrada para monitoramento de atividade",
+    "valor": 499,
+    "emoji": "⌚🏃",
+    "tags": [
+      "acessórios",
+      "esportes"
+    ]
+  },
+  {
+    "lazer": "Jantar em restaurante novo com culinária autoral (prato principal + bebida)",
+    "valor": 280,
+    "emoji": "🍽️✨",
+    "tags": [
+      "comida"
+    ]
+  },
+  {
+    "lazer": "Passeio de teleférico ou bondinho turístico",
+    "valor": 110,
+    "emoji": "🚠🏞️",
+    "tags": [
+      "viagem",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Dia de doação de livros e roupas antigas, seguido por almoço leve",
+    "valor": 50,
+    "emoji": "🕊️🤝",
+    "tags": [
+      "família"
+    ]
+  },
+  {
+    "lazer": "Workshop de arranjos florais",
+    "valor": 180,
+    "emoji": "🌸🏺",
+    "tags": [
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Compra de uma garrafa de vinho tinto premium para degustar em casa",
+    "valor": 150,
+    "emoji": "🍷🍇",
+    "tags": [
+      "comida",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Ingresso para apresentação de ópera ou balé (setor econômico)",
+    "valor": 190,
+    "emoji": "🩰🎼",
+    "tags": [
+      "cultura",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Compra de um kindle ou leitor digital simples",
+    "valor": 400,
+    "emoji": "📚💡",
+    "tags": [
+      "hobbie",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Aluguel de uma quadra de beach tennis por 1 hora",
+    "valor": 80,
+    "emoji": "🎾🏐",
+    "tags": [
+      "esportes",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Compra de um kit de maquiagem profissional iniciante",
+    "valor": 320,
+    "emoji": "💄💋",
+    "tags": [
+      "roupas",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Dia de visita a um templo ou igreja histórica",
+    "valor": 0,
+    "emoji": "🕍🕊️",
+    "tags": [
+      "cultura",
+      "viagem"
+    ]
+  },
+  {
+    "lazer": "Compra de um diário de gratidão ou bullet journal",
+    "valor": 70,
+    "emoji": "📝💖",
+    "tags": [
+      "hobbie",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Almoço em restaurante 'coma à vontade' com culinária caipira",
+    "valor": 55,
+    "emoji": "🥘👨‍🌾",
+    "tags": [
+      "comida",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Compra de um drone de brinquedo simples com câmera básica",
+    "valor": 300,
+    "emoji": "🚁🎮",
+    "tags": [
+      "diversão",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Reorganização do guarda-roupa usando o método Marie Kondo",
+    "valor": 0,
+    "emoji": "👗📦",
+    "tags": [
+      "roupas",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Compra de fones de ouvido bluetooth esportivos (in-ear)",
+    "valor": 180,
+    "emoji": "🎧🏃",
+    "tags": [
+      "acessórios",
+      "esportes"
+    ]
+  },
+  {
+    "lazer": "Visita a uma plantação de flores ou estufa de orquídeas",
+    "valor": 40,
+    "emoji": "🪴💐",
+    "tags": [
+      "hobbie",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Inscrição em um curso básico de edição de vídeo online",
+    "valor": 200,
+    "emoji": "✂️🎥",
+    "tags": [
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Jantar com sobremesas sofisticadas em uma confeitaria francesa",
+    "valor": 160,
+    "emoji": "🍰🍮",
+    "tags": [
+      "comida",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Compra de uma camisa social de linho para o verão",
+    "valor": 380,
+    "emoji": "👔☀️",
+    "tags": [
+      "roupas"
+    ]
+  },
+  {
+    "lazer": "Visita guiada a um museu de história natural (ingresso)",
+    "valor": 50,
+    "emoji": "🦖🦴",
+    "tags": [
+      "cultura",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Trilha moderada de 4 horas em reserva ecológica",
+    "valor": 0,
+    "emoji": "⛰️🚶‍♀️",
+    "tags": [
+      "esportes",
+      "viagem"
+    ]
+  },
+  {
+    "lazer": "Compra de um kit de especiarias para churrasco e molhos gourmet",
+    "valor": 100,
+    "emoji": "🍖🔥",
+    "tags": [
+      "comida",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Assinatura trimestral de caixa de itens de papelaria fofa",
+    "valor": 120,
+    "emoji": "📎🎁",
+    "tags": [
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Sessão de yoga ou pilates ao ar livre (aula experimental)",
+    "valor": 50,
+    "emoji": "🧘‍♂️🌳",
+    "tags": [
+      "descanso",
+      "esportes"
+    ]
+  },
+  {
+    "lazer": "Instalação de um suporte de parede para televisão",
+    "valor": 90,
+    "emoji": "📺🔧",
+    "tags": [
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Fim de semana em camping selvagem (preparação e equipamento mínimo)",
+    "valor": 100,
+    "emoji": "🏕️🌌",
+    "tags": [
+      "viagem",
+      "esportes"
+    ]
+  },
+  {
+    "lazer": "Compra de sapatilhas de ballet ou jazz para começar a aprender",
+    "valor": 150,
+    "emoji": "🩰✨",
+    "tags": [
+      "roupas",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Ingresso para um festival de cinema independente",
+    "valor": 70,
+    "emoji": "📽️🌟",
+    "tags": [
+      "cultura",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Experiência de escalada indoor (primeira sessão)",
+    "valor": 90,
+    "emoji": "🧗‍♀️💪",
+    "tags": [
+      "esportes",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Compra de material para customizar uma peça de roupa (tinta, patches)",
+    "valor": 80,
+    "emoji": "🧵👚",
+    "tags": [
+      "roupas",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Degustação de 10 tipos de chocolates artesanais",
+    "valor": 110,
+    "emoji": "🍫☕",
+    "tags": [
+      "comida",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Aluguel de um telescópio pequeno por um dia para observação lunar",
+    "valor": 75,
+    "emoji": "🔭🌕",
+    "tags": [
+      "hobbie",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Sessão de cabeleireiro para tratamento de hidratação profunda",
+    "valor": 130,
+    "emoji": "💇‍♀️💧",
+    "tags": [
+      "descanso",
+      "roupas"
+    ]
+  },
+  {
+    "lazer": "Compra de uma câmera instantânea (câmera + filme inicial)",
+    "valor": 650,
+    "emoji": "📸🎞️",
+    "tags": [
+      "hobbie",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Visita a uma fazenda de café com tour e degustação",
+    "valor": 85,
+    "emoji": "☕🌱",
+    "tags": [
+      "comida",
+      "viagem"
+    ]
+  },
+  {
+    "lazer": "Compra de jogo de videogame retrô (cartucho ou mídia física)",
+    "valor": 250,
+    "emoji": "🕹️👾",
+    "tags": [
+      "diversão",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Presentear um amigo com um livro e café em uma livraria",
+    "valor": 70,
+    "emoji": "🎁☕",
+    "tags": [
+      "cultura",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Viagem curta de trem regional (passeio panorâmico)",
+    "valor": 160,
+    "emoji": "🚂🛤️",
+    "tags": [
+      "viagem",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Compra de um chapéu de palha elegante para a praia",
+    "valor": 110,
+    "emoji": "👒☀️",
+    "tags": [
+      "acessórios",
+      "roupas"
+    ]
+  },
+  {
+    "lazer": "Aula introdutória de kitesurf ou windsurf (terrestre)",
+    "valor": 300,
+    "emoji": "🪁💨",
+    "tags": [
+      "esportes"
+    ]
+  },
+  {
+    "lazer": "Compra de um livro de culinária internacional (ex: Tailandesa)",
+    "valor": 90,
+    "emoji": "📖🥢",
+    "tags": [
+      "comida",
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Sessão de jogos de sinuca ou boliche em família",
+    "valor": 120,
+    "emoji": "🎱🎳",
+    "tags": [
+      "diversão",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Compra de um difusor pessoal (colar) para óleos essenciais",
+    "valor": 65,
+    "emoji": "💫💖",
+    "tags": [
+      "acessórios",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Criação de um álbum de fotos físico com colagens e anotações",
+    "valor": 100,
+    "emoji": " álbum: 📷✂️",
+    "tags": [
+      "hobbie",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Experiência de apicultura em apiário local (tour guiado)",
+    "valor": 180,
+    "emoji": "🍯🐝",
+    "tags": [
+      "cultura",
+      "viagem"
+    ]
+  },
+  {
+    "lazer": "Aluguel de fantasia para festa temática ou Carnaval",
+    "valor": 150,
+    "emoji": "🎭👑",
+    "tags": [
+      "roupas",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Compra de um mixer portátil para smoothies e vitaminas",
+    "valor": 190,
+    "emoji": "🍹🥤",
+    "tags": [
+      "acessórios",
+      "comida"
+    ]
+  },
+  {
+    "lazer": "Participação em aula de culinária para crianças (pacote familiar)",
+    "valor": 350,
+    "emoji": "🍪👨‍👩‍👧‍👦",
+    "tags": [
+      "comida",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Visita a um observatório astronômico público (ingresso)",
+    "valor": 50,
+    "emoji": "🔭🌃",
+    "tags": [
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Compra de uma bola de futebol profissional de qualidade",
+    "valor": 140,
+    "emoji": "⚽🥅",
+    "tags": [
+      "esportes",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Sessão de sauna e banho turco em um spa",
+    "valor": 90,
+    "emoji": "🧖‍♂️🔥",
+    "tags": [
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Organizar uma troca de roupas usadas ou desapego com amigos",
+    "valor": 0,
+    "emoji": "👚🔄",
+    "tags": [
+      "roupas",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Compra de um kit de aeromodelismo simples (para iniciantes)",
+    "valor": 220,
+    "emoji": "✈️🪁",
+    "tags": [
+      "hobbie",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Jantar e cinema com direito a pipoca e doces especiais",
+    "valor": 150,
+    "emoji": "📽️🍿",
+    "tags": [
+      "comida",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Compra de ingressos para um concerto de música clássica ou coral",
+    "valor": 170,
+    "emoji": "🎻🎶",
+    "tags": [
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Viagem de fim de semana para uma cachoeira ou área de água doce próxima",
+    "valor": 350,
+    "emoji": "🏞️💧",
+    "tags": [
+      "viagem",
+      "esportes"
+    ]
+  },
+  {
+    "lazer": "Aprender a tocar ukulele (instrumento e tutorial online)",
+    "valor": 180,
+    "emoji": "🎼🏝️",
+    "tags": [
+      "hobbie",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Aula de cerâmica manual (inclui material para uma peça)",
+    "valor": 180,
+    "emoji": "🏺🔥",
+    "tags": [
+      "hobbie",
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Compra de um par de tênis casuais de marca sustentável",
+    "valor": 450,
+    "emoji": "👟✨",
+    "tags": [
+      "roupas",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Passeio de caiaque ou stand-up paddle por 2 horas",
+    "valor": 95,
+    "emoji": "🛶🌊",
+    "tags": [
+      "esportes",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Degustação harmonizada de queijos e vinhos regionais",
+    "valor": 220,
+    "emoji": "🧀🍷",
+    "tags": [
+      "comida",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Dia de voluntariado em abrigo de animais (doação simbólica)",
+    "valor": 20,
+    "emoji": "🐕‍🦺❤️",
+    "tags": [
+      "família",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Compra de um aparelho de fondue elétrico para inverno",
+    "valor": 150,
+    "emoji": "🫕🏠",
+    "tags": [
+      "comida",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Inscrição em maratona de 5km local",
+    "valor": 70,
+    "emoji": "🏃‍♀️🏅",
+    "tags": [
+      "esportes",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Sessão de cinema IMAX com pipoca gourmet",
+    "valor": 85,
+    "emoji": "🎬🍿",
+    "tags": [
+      "diversão",
+      "comida"
+    ]
+  },
+  {
+    "lazer": "Compra de um tripé flexível para celular e câmera",
+    "valor": 65,
+    "emoji": "🤳📸",
+    "tags": [
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Workshop de mixologia básica para drinks em casa",
+    "valor": 280,
+    "emoji": "🍹🍸",
+    "tags": [
+      "hobbie",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Reforma de móvel pequeno (compra de lixa e tinta)",
+    "valor": 120,
+    "emoji": "🛠️🎨",
+    "tags": [
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Visita guiada a um mercado municipal famoso",
+    "valor": 40,
+    "emoji": "🍎🌶️",
+    "tags": [
+      "comida",
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Compra de óculos de sol polarizados de boa qualidade",
+    "valor": 350,
+    "emoji": "😎☀️",
+    "tags": [
+      "acessórios",
+      "roupas"
+    ]
+  },
+  {
+    "lazer": "Day use em hotel fazenda próximo (uso da área de lazer)",
+    "valor": 180,
+    "emoji": "🏊‍♀️🌄",
+    "tags": [
+      "viagem",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Aula de defesa pessoal (pacote de 4 sessões introdutórias)",
+    "valor": 300,
+    "emoji": "🥋💪",
+    "tags": [
+      "esportes",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Compra de uma cafeteira italiana Moka",
+    "valor": 90,
+    "emoji": "☕🇮🇹",
+    "tags": [
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Organização de piquenique temático em parque (custo dos alimentos)",
+    "valor": 150,
+    "emoji": "🧺🥪",
+    "tags": [
+      "família",
+      "comida"
+    ]
+  },
+  {
+    "lazer": "Compra de um chapéu fedora ou panamá elegante",
+    "valor": 175,
+    "emoji": "👒🎩",
+    "tags": [
+      "roupas",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Inscrição em um curso online de escrita criativa",
+    "valor": 199,
+    "emoji": "✍️💻",
+    "tags": [
+      "hobbie",
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Ingresso para um show de jazz ou blues em bar intimista",
+    "valor": 120,
+    "emoji": "🎷🎶",
+    "tags": [
+      "diversão",
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Viagem de carro para uma vinícola (custo do combustível e pedágio)",
+    "valor": 300,
+    "emoji": "🍇🚗",
+    "tags": [
+      "viagem",
+      "comida"
+    ]
+  },
+  {
+    "lazer": "Compra de um kit de jardinagem hidropônica para temperos",
+    "valor": 250,
+    "emoji": "🌱💧",
+    "tags": [
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Sessão fotográfica profissional ao ar livre (retrato)",
+    "valor": 400,
+    "emoji": "📸😊",
+    "tags": [
+      "diversão",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Compra de um cinto de couro legítimo de alta durabilidade",
+    "valor": 290,
+    "emoji": "🧵💼",
+    "tags": [
+      "acessórios",
+      "roupas"
+    ]
+  },
+  {
+    "lazer": "Experiência de escape room com 4 amigos",
+    "valor": 80,
+    "emoji": "🗝️🧩",
+    "tags": [
+      "diversão",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Aluguel de um drone de alta performance por 4 horas",
+    "valor": 350,
+    "emoji": "🚁🏞️",
+    "tags": [
+      "hobbie",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Compra de ingredientes para fazer 3 receitas de pão artesanal",
+    "valor": 80,
+    "emoji": "🥖🍞",
+    "tags": [
+      "comida",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Sessão de bronzeamento artificial ou jet bronze",
+    "valor": 160,
+    "emoji": "☀️✨",
+    "tags": [
+      "roupas",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Ingresso para um evento geek/anime (feira ou convenção)",
+    "valor": 110,
+    "emoji": "👾🕹️",
+    "tags": [
+      "diversão",
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Compra de patins quad ou in-line de entrada",
+    "valor": 499,
+    "emoji": "⛸️🤸‍♀️",
+    "tags": [
+      "esportes",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Hospedagem em hostel charmoso por uma noite em cidade vizinha",
+    "valor": 90,
+    "emoji": "🛏️🏙️",
+    "tags": [
+      "viagem",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Workshop de fotografia noturna (teoria e prática)",
+    "valor": 250,
+    "emoji": "🌃📷",
+    "tags": [
+      "hobbie",
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Compra de um kit de óleos essenciais terapêuticos",
+    "valor": 130,
+    "emoji": "👃🌿",
+    "tags": [
+      "descanso",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Aula experimental de dança de salão (pacote introdutório)",
+    "valor": 150,
+    "emoji": "💃🕺",
+    "tags": [
+      "esportes",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Compra de uma capa de chuva impermeável estilosa",
+    "valor": 190,
+    "emoji": "☔🧥",
+    "tags": [
+      "roupas",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Visita a uma cervejaria artesanal com tour e brinde",
+    "valor": 60,
+    "emoji": "🍻🏭",
+    "tags": [
+      "comida",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Curso rápido de primeiros socorros em ambiente selvagem",
+    "valor": 299,
+    "emoji": "🚑🌲",
+    "tags": [
+      "hobbie",
+      "esportes"
+    ]
+  },
+  {
+    "lazer": "Compra de um projetor portátil para cinema em casa",
+    "valor": 950,
+    "emoji": "📽️🏠",
+    "tags": [
+      "acessórios",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Sessão de jogos de realidade virtual (VR Arcade)",
+    "valor": 150,
+    "emoji": "🤖👓",
+    "tags": [
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Montar uma horta vertical em casa (custo das sementes/vasos)",
+    "valor": 100,
+    "emoji": "🥕🪴",
+    "tags": [
+      "família",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Compra de um par de luvas de boxe ou Muay Thai",
+    "valor": 210,
+    "emoji": "🥊🔥",
+    "tags": [
+      "esportes",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Jantar em restaurante temático (ex: medieval, anos 80)",
+    "valor": 180,
+    "emoji": "🏰🍽️",
+    "tags": [
+      "comida",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Viagem de balsa ou catamarã para ilha próxima",
+    "valor": 140,
+    "emoji": "🚢🏝️",
+    "tags": [
+      "viagem",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Compra de um livro raro ou edição especial de um clássico",
+    "valor": 190,
+    "emoji": "📚✨",
+    "tags": [
+      "cultura",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Aula de surf ou bodyboard (aluguel de prancha incluso)",
+    "valor": 120,
+    "emoji": "🏄‍♀️🌊",
+    "tags": [
+      "esportes",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Compra de kit para fazer sabonetes artesanais",
+    "valor": 160,
+    "emoji": "🧼🎁",
+    "tags": [
+      "hobbie",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Day Spa detox (sem massagem, focado em piscinas e saunas)",
+    "valor": 250,
+    "emoji": "🧖‍♀️💧",
+    "tags": [
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Compra de um par de chinelos ortopédicos de alta qualidade",
+    "valor": 90,
+    "emoji": "🩴☁️",
+    "tags": [
+      "acessórios",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Visita a um memorial de guerra ou monumento histórico pouco explorado",
+    "valor": 50,
+    "emoji": "🗿📜",
+    "tags": [
+      "cultura",
+      "viagem"
+    ]
+  },
+  {
+    "lazer": "Aluguel de jet ski por 30 minutos",
+    "valor": 380,
+    "emoji": "🚤💨",
+    "tags": [
+      "esportes",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Compra de um blazer ou jaqueta de segunda mão (brechó premium)",
+    "valor": 220,
+    "emoji": "🧥♻️",
+    "tags": [
+      "roupas",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Dia de pintura em cerâmica ou porcelana em estúdio (peça + queima)",
+    "valor": 140,
+    "emoji": "🖌️🏺",
+    "tags": [
+      "hobbie",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Excursão de observação de pássaros (aluguel de binóculos)",
+    "valor": 70,
+    "emoji": "🦅🌳",
+    "tags": [
+      "hobbie",
+      "viagem"
+    ]
+  },
+  {
+    "lazer": "Compra de um conjunto de taças de cristal para vinho",
+    "valor": 320,
+    "emoji": "🍷🥂",
+    "tags": [
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Aula de culinária vegana focada em pratos principais",
+    "valor": 210,
+    "emoji": "🥬🥦",
+    "tags": [
+      "comida",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Fim de semana explorando trilhas de bicicleta (aluguel da bike)",
+    "valor": 180,
+    "emoji": "🚴‍♂️⛰️",
+    "tags": [
+      "esportes",
+      "viagem"
+    ]
+  },
+  {
+    "lazer": "Compra de um colete de peso para intensificar treinos",
+    "valor": 390,
+    "emoji": "🏋️‍♀️💪",
+    "tags": [
+      "esportes",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Ingresso para um show de orquestra sinfônica (setor central)",
+    "valor": 280,
+    "emoji": "🎻🎼",
+    "tags": [
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Personalização de uma capa de celular com arte exclusiva",
+    "valor": 75,
+    "emoji": "📱🎨",
+    "tags": [
+      "acessórios",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Hospedagem em chalé rústico com lareira por uma noite",
+    "valor": 500,
+    "emoji": "🔥🏡",
+    "tags": [
+      "viagem",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Compra de material para iniciar bordado livre ou ponto cruz",
+    "valor": 80,
+    "emoji": "🧶🧵",
+    "tags": [
+      "hobbie",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Sessão de micropigmentação de sobrancelhas (manutenção ou retoque)",
+    "valor": 550,
+    "emoji": "👁️✨",
+    "tags": [
+      "acessórios",
+      "roupas"
+    ]
+  },
+  {
+    "lazer": "Aluguel de carro conversível por um dia (para passeio na orla)",
+    "valor": 450,
+    "emoji": "🚘☀️",
+    "tags": [
+      "diversão",
+      "viagem"
+    ]
+  },
+  {
+    "lazer": "Compra de um vaporizador de roupas vertical",
+    "valor": 200,
+    "emoji": "👕💨",
+    "tags": [
+      "roupas",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Jantar de culinária molecular em restaurante sofisticado",
+    "valor": 350,
+    "emoji": "🔬🍲",
+    "tags": [
+      "comida",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Aula de natação intensiva (pacote de 8 aulas)",
+    "valor": 480,
+    "emoji": "🏊‍♂️💦",
+    "tags": [
+      "esportes",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Compra de um robô aspirador de pó (modelo básico/entrada)",
+    "valor": 750,
+    "emoji": "🤖🧹",
+    "tags": [
+      "acessórios",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Participação em um sarau de poesia ou clube de leitura",
+    "valor": 10,
+    "emoji": "📖🗣️",
+    "tags": [
+      "cultura",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Compra de um kimono de jiu-jitsu ou judô (para iniciantes)",
+    "valor": 390,
+    "emoji": "🥋🤼",
+    "tags": [
+      "esportes",
+      "roupas"
+    ]
+  },
+  {
+    "lazer": "Fim de semana de trilhas leves em parque nacional (taxas + lanche)",
+    "valor": 150,
+    "emoji": "🌲🗺️",
+    "tags": [
+      "esportes",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Sessão de acupuntura ou ventosaterapia",
+    "valor": 120,
+    "emoji": "🥢😌",
+    "tags": [
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Compra de uma câmera de segurança interna Wi-Fi",
+    "valor": 190,
+    "emoji": "🚨🏠",
+    "tags": [
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Tour noturno em ônibus panorâmico (visita a pontos turísticos iluminados)",
+    "valor": 80,
+    "emoji": "🚌🌟",
+    "tags": [
+      "viagem",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Inscrição em curso de linguagem de sinais (LIBRAS) online",
+    "valor": 250,
+    "emoji": "✋👂",
+    "tags": [
+      "cultura",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Compra de um conjunto de panelas antiaderentes de cerâmica",
+    "valor": 450,
+    "emoji": "🍳🥘",
+    "tags": [
+      "acessórios",
+      "comida"
+    ]
+  },
+  {
+    "lazer": "Day Use em clube aquático com tobogãs",
+    "valor": 130,
+    "emoji": "🎢☀️",
+    "tags": [
+      "família",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Compra de um chapéu de sol floppy grande para proteção solar",
+    "valor": 95,
+    "emoji": "⛱️🌞",
+    "tags": [
+      "acessórios",
+      "roupas"
+    ]
+  },
+  {
+    "lazer": "Experiência de tiro ao alvo em estande com armas de pressão",
+    "valor": 200,
+    "emoji": "🎯🔫",
+    "tags": [
+      "diversão",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Aula de como fazer pizza artesanal com fermentação natural",
+    "valor": 230,
+    "emoji": "🍕👨‍🍳",
+    "tags": [
+      "comida",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Compra de um monitor de pressão arterial para uso doméstico",
+    "valor": 160,
+    "emoji": "🩺❤️",
+    "tags": [
+      "descanso",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Visita a um aquário grande ou oceanário (ingresso)",
+    "valor": 90,
+    "emoji": "🐠🐡",
+    "tags": [
+      "família",
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Compra de uma capa para tablet ou laptop elegante",
+    "valor": 110,
+    "emoji": "💻💼",
+    "tags": [
+      "acessórios",
+      "roupas"
+    ]
+  },
+  {
+    "lazer": "Degustação de 5 tipos de café especial com método V60 ou Chemex",
+    "valor": 70,
+    "emoji": "☕🍯",
+    "tags": [
+      "comida",
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Aluguel de prancha de snowboard ou esqui por um dia",
+    "valor": 300,
+    "emoji": "🏂⛷️",
+    "tags": [
+      "esportes",
+      "viagem"
+    ]
+  },
+  {
+    "lazer": "Compra de um par de brincos ou colar de prata minimalista",
+    "valor": 140,
+    "emoji": "💎✨",
+    "tags": [
+      "acessórios",
+      "roupas"
+    ]
+  },
+  {
+    "lazer": "Fazer um curso online de DJing ou produção musical básica",
+    "valor": 499,
+    "emoji": "🎧🎶",
+    "tags": [
+      "hobbie",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Jantar com culinária do Oriente Médio (shawarma, falafel)",
+    "valor": 110,
+    "emoji": "🥙🕌",
+    "tags": [
+      "comida",
+      "viagem"
+    ]
+  },
+  {
+    "lazer": "Compra de um extensor HDMI ou adaptador USB-C multifuncional",
+    "valor": 85,
+    "emoji": "🔌🖥️",
+    "tags": [
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Passeio de balão em região turística (preço da experiência curta)",
+    "valor": 990,
+    "emoji": "🎈🌄",
+    "tags": [
+      "viagem",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Compra de um kit de barbear clássico (pincel, navalha, sabão)",
+    "valor": 170,
+    "emoji": "🧔🔪",
+    "tags": [
+      "acessórios",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Dia de patinação no gelo em shopping (ingresso e aluguel)",
+    "valor": 90,
+    "emoji": "⛸️❄️",
+    "tags": [
+      "diversão",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Compra de um conjunto de lençóis de algodão egípcio",
+    "valor": 350,
+    "emoji": "🛌☁️",
+    "tags": [
+      "descanso",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Aula de esgrima ou arqueria (introdução)",
+    "valor": 150,
+    "emoji": "🏹🛡️",
+    "tags": [
+      "esportes",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Almoço em restaurante francês com menu executivo",
+    "valor": 130,
+    "emoji": "🇫🇷🥐",
+    "tags": [
+      "comida",
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Compra de um kit de luzes de LED inteligentes para decoração de ambientes",
+    "valor": 250,
+    "emoji": "💡🏠",
+    "tags": [
+      "acessórios",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Viagem de trem turístico (percurso de 4 horas com vista panorâmica)",
+    "valor": 320,
+    "emoji": "🚂⛰️",
+    "tags": [
+      "viagem",
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Sessão de reflexologia podal ou escalda-pés premium",
+    "valor": 70,
+    "emoji": "👣🌸",
+    "tags": [
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Compra de uma barraca de camping para 2 pessoas (modelo leve)",
+    "valor": 599,
+    "emoji": "⛺🌲",
+    "tags": [
+      "esportes",
+      "viagem"
+    ]
+  },
+  {
+    "lazer": "Workshop de culinária para fazer sobremesas zero açúcar",
+    "valor": 190,
+    "emoji": "🍰🧪",
+    "tags": [
+      "comida",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Ingresso para festival de música regional ou folclórica",
+    "valor": 150,
+    "emoji": "🥁🎉",
+    "tags": [
+      "cultura",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Curso de automaquiagem com maquiador profissional",
+    "valor": 260,
+    "emoji": "💄👩‍🎨",
+    "tags": [
+      "hobbie",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Aluguel de carro clássico para um passeio fotográfico",
+    "valor": 400,
+    "emoji": "🚗📸",
+    "tags": [
+      "diversão",
+      "viagem"
+    ]
+  },
+  {
+    "lazer": "Jantar em restaurante especializado em frutos do mar",
+    "valor": 250,
+    "emoji": "🍤🐟",
+    "tags": [
+      "comida",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Compra de um tênis de corrida com placa de carbono (modelo de entrada)",
+    "valor": 980,
+    "emoji": "👟🚀",
+    "tags": [
+      "esportes",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Visita a uma destilaria de cachaça ou whisky com degustação",
+    "valor": 170,
+    "emoji": "🥃🏭",
+    "tags": [
+      "comida",
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Compra de uma rede de descanso para varanda ou jardim",
+    "valor": 190,
+    "emoji": "🛌🌴",
+    "tags": [
+      "descanso",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Aula de pole dance ou tecido acrobático (iniciação)",
+    "valor": 140,
+    "emoji": "🤸‍♀️🌟",
+    "tags": [
+      "esportes",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Passeio de jardineira em área rural ou florestal",
+    "valor": 60,
+    "emoji": "🚜🌲",
+    "tags": [
+      "viagem",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Compra de um vestido ou macacão de linho elegante",
+    "valor": 380,
+    "emoji": "👗🌿",
+    "tags": [
+      "roupas"
+    ]
+  },
+  {
+    "lazer": "Experiência de parkour ou treino funcional ao ar livre",
+    "valor": 90,
+    "emoji": "🤸‍♂️ urban",
+    "tags": [
+      "esportes",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Inscrição em curso de história da arte moderna (online ou presencial)",
+    "valor": 300,
+    "emoji": "🖼️🎨",
+    "tags": [
+      "cultura",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Dia de pesca esportiva (aluguel de equipamento e licença)",
+    "valor": 210,
+    "emoji": "🎣🐟",
+    "tags": [
+      "hobbie",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Compra de uma escrivaninha compacta para home office",
+    "valor": 450,
+    "emoji": " desks",
+    "tags": [
+      "acessórios",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Sessão de RPG de mesa temática com mestre contratado",
+    "valor": 150,
+    "emoji": "🎲🧙‍♂️",
+    "tags": [
+      "diversão",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Viagem de ferry boat para um município litorâneo diferente",
+    "valor": 120,
+    "emoji": "🚢🏖️",
+    "tags": [
+      "viagem",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Compra de um patinete elétrico (modelo infantil ou de entrada)",
+    "valor": 600,
+    "emoji": "🛴⚡",
+    "tags": [
+      "diversão",
+      "esportes"
+    ]
+  },
+  {
+    "lazer": "Fazer um tour gastronômico por 3 padarias artesanais da cidade",
+    "valor": 150,
+    "emoji": "🍞🥐",
+    "tags": [
+      "comida",
+      "cultura"
+    ]
+  },
+  {
+    "lazer": "Compra de material para fazer um terrário ou aquário plantado",
+    "valor": 270,
+    "emoji": "🪴💧",
+    "tags": [
+      "hobbie",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Sessão de crioterapia (banho de gelo) pós-treino",
+    "valor": 90,
+    "emoji": "🧊🥶",
+    "tags": [
+      "esportes",
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Compra de um par de sapatos oxford ou loafer de couro sintético",
+    "valor": 220,
+    "emoji": "👞💼",
+    "tags": [
+      "roupas",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Visita a uma fazenda de gado ou plantação de frutas exóticas (tour)",
+    "valor": 80,
+    "emoji": "🍍🐮",
+    "tags": [
+      "viagem",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Compra de um livro de receitas de coquetéis não alcoólicos (mocktails)",
+    "valor": 75,
+    "emoji": "🍹📘",
+    "tags": [
+      "comida",
+      "hobbie"
+    ]
+  },
+  {
+    "lazer": "Jantar e karaokê com amigos em um bar privado",
+    "valor": 140,
+    "emoji": "🎤🎶",
+    "tags": [
+      "diversão",
+      "comida"
+    ]
+  },
+  {
+    "lazer": "Aluguel de equipamento para snowkite (para quem já sabe esquiar)",
+    "valor": 280,
+    "emoji": "🪁⛷️",
+    "tags": [
+      "esportes",
+      "diversão"
+    ]
+  },
+  {
+    "lazer": "Compra de uma máquina de costura portátil para reparos rápidos",
+    "valor": 399,
+    "emoji": "🧵🪡",
+    "tags": [
+      "hobbie",
+      "acessórios"
+    ]
+  },
+  {
+    "lazer": "Passeio de barco em lago ou rio (aluguel por hora)",
+    "valor": 190,
+    "emoji": "🛥️🏞️",
+    "tags": [
+      "viagem",
+      "família"
+    ]
+  },
+  {
+    "lazer": "Sessão de massagem Ayurvédica ou Tailandesa",
+    "valor": 180,
+    "emoji": "🧘‍♀️🇹🇭",
+    "tags": [
+      "descanso"
+    ]
+  },
+  {
+    "lazer": "Compra de uma mochila cargueira pequena (para trilhas curtas)",
+    "valor": 250,
+    "emoji": "🎒🌲",
+    "tags": [
+      "esportes",
+      "acessórios"
+    ]
   }
+
 ]
